@@ -1,7 +1,5 @@
 # Alura.Barbearia
 
-# Barbearia.Alura
-
 -Esse projeto foi desenvolvido através dos cursos do Alura.
 
 -Linguagens de programação presentes são: HTML, CSS.
